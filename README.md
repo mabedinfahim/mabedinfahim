@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Redux,Material UI**
 
-- 👨‍💻 All of my projects are available at [@mabedinfahim](@mabedinfahim)
+- 👨‍💻 All of my projects are available at [mabedinfahim](mabedinfahim)
 
 - 📫 How to reach me **mabedinfahim@gmail.com**
 
