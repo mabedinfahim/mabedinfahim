@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+mabedinfahim's+GitHub+Profile!)](https://git.io/typing-svg)
+![](assets/Bottom_up.svg)
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-<h1 align="center">Hi 👋, I'm Mainul Abedin Fahim</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi 👋+I'm+Mainul+Abedin+Fahim!)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mabedinfahim&label=Profile%20views&color=0e75b6&style=flat" alt="mabedinfahim" /> </p>
