@@ -1,8 +1,7 @@
 ![](assets/Bottom_up.svg)
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi 👋 + I'm + Mainul+Abedin + Fahim!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Mainul+Abedin+Fahim;+Welcome+to+My+Profile!;A+passionate+MERN+Stack+Developer+from+Bangladesh;Always+learning+new+things)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mabedinfahim&label=Profile%20views&color=0e75b6&style=flat" alt="mabedinfahim" /> </p>
 
