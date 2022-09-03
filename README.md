@@ -28,4 +28,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mabedinfahim&" alt="mabedinfahim" /></p>
 
+counting of visitors to this page in this section started from september 3, 2022
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 ![](https://github.com/mabedinfahim/mabedinfahim/blob/output/github-contribution-grid-snake.svg)
